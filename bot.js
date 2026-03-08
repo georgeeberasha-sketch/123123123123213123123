@@ -2,7 +2,7 @@
 // CS2 COMMUNITY BOT - SINGLE FILE VERSION
 // ============================================
 // შეცვალე ეს მონაცემები:
-const BOT_TOKEN = "MTQ4MDE2MDY4OTc0NTI5NzQ0OA.GPj4J0.QLA0Or-47sVG0u4lLInS5d9xq_9JkGbk52EueI";
+const BOT_TOKEN = "MTQ4MDE2MDY4OTc0NTI5NzQ0OA.G7f6Z7.2PqDudg8lVh5Vzcg7hX24-y9iGJ6sebnn12JCk";
 const CLIENT_ID = "1480160689745297448";
 const GUILD_ID = "YOUR_GUILD_ID_HERE"; // სერვერის ID
 const PREFIX = "$";
