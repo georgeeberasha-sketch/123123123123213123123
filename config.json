@@ -1,0 +1,55 @@
+{
+  "prefix": "$",
+  "colors": {
+    "primary": "#5865F2",
+    "success": "#57F287",
+    "warning": "#FEE75C",
+    "error": "#ED4245",
+    "cs2": "#FF6B00"
+  },
+  "tickets": {
+    "categoryId": "",
+    "logChannelId": "",
+    "supportRoleId": "",
+    "maxTicketsPerUser": 3,
+    "categories": [
+      { "name": "General Support", "emoji": "🎫", "description": "General questions and help" },
+      { "name": "Report Player", "emoji": "🚨", "description": "Report a player for rule violations" },
+      { "name": "Bug Report", "emoji": "🐛", "description": "Report bugs or issues" },
+      { "name": "Appeal", "emoji": "⚖️", "description": "Appeal a ban or punishment" },
+      { "name": "Partnership", "emoji": "🤝", "description": "Business and partnership inquiries" }
+    ]
+  },
+  "giveaways": {
+    "roleId": "",
+    "channelId": "",
+    "managerRoleId": "",
+    "emoji": "🎉"
+  },
+  "welcome": {
+    "enabled": true,
+    "channelId": "",
+    "autoRoleId": "",
+    "message": "Welcome to the server, {user}! We now have {memberCount} members!",
+    "embedEnabled": true,
+    "dmEnabled": false,
+    "dmMessage": "Welcome to our CS2 community! Make sure to read the rules."
+  },
+  "leave": {
+    "enabled": true,
+    "channelId": "",
+    "message": "{user} has left the server. We now have {memberCount} members."
+  },
+  "logging": {
+    "enabled": true,
+    "channelId": "",
+    "logMessages": true,
+    "logJoins": true,
+    "logLeaves": true,
+    "logBans": true
+  },
+  "cs2": {
+    "steamApiKey": "",
+    "linkedRoleId": ""
+  }
+}

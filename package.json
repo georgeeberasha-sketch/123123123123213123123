@@ -1,0 +1,13 @@
+{
+  "name": "cs2-discord-bot",
+  "version": "1.0.0",
+  "description": "CS2 Community Discord Bot",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
